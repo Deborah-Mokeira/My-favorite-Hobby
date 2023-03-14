@@ -1,0 +1,99 @@
+
+        body{
+            background: linear-gradient(359deg, rgb(150, 192, 255) -17.7%, rgb(255, 180, 161) 101.5%);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1,h2{
+            text-align: center;
+        }
+        
+        button{
+            display: block;
+            margin: 0 auto;
+            border: none;
+            background: rgba(255, 255, 255, 0.925);
+            font-size: 20px;
+            border-radius: 6px;
+            padding: 10px 15px;
+            transition: all 150ms ease-in-out;
+
+        }
+        button:hover{
+            background: plum;
+            cursor: pointer;
+        }
+        img{
+            max-width: 100%;
+            
+        }
+        .container{
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: rgb(255, 255, 255);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        p{
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        strong{
+            color: rgb(34, 34, 207);
+            font-size: 20px;
+        }
+        footer{
+            text-align: center;
+            margin:10px 0;
+            font-size: 18px;
+            
+        }
+        .dark-theme-btn{
+            font-size: 16px;
+            background-color: black;
+            color: white;
+            padding: 10px 8px;
+        }
+        .dark-theme-btn:hover{
+            color: black;
+            background-color: white;
+        }
+        .cooking-intro-picture{
+            border-radius: 10px;
+            transition: all 150ms ease-in-out;
+            
+        }
+        .cooking-intro-picture:hover{
+          filter: contrast(80%);
+          transform: scale(1.1) ;
+        }
+        .grid-container{
+            margin: 15px 0;
+            display: grid;
+            grid-template-columns:repeat(4,1fr) ;
+            gap: 15px;
+        }
+        .grid-container img{
+            width: 100%;
+            height: 100%;
+            border-radius: 8px;
+            transition: all 150ms ease-in-out;
+        }
+        .grid-container img:hover{
+            transform: scale(2);
+
+        }
+        .dark{
+            background: black;
+            color: white;
+        }
+        .dark .container{
+            background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
+        }
+        .dark  a{
+            color:plum;
+        }
+        .dark strong{
+            color: white;
+
+        }
+    
