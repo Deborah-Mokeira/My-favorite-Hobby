@@ -1,7 +1,7 @@
 # Cooking Hobby Page
 This is a personal cooking hobby page that showcases my love for cooking and my culinary creations. On this page, you'll find photos of various dishes I've cooked, along with recipes and cooking tips.
 
-Technologies Used; This page was built using HTML and CSS. I used CSS Grid and Flexbox for layout and styling.
+Technologies Used; This page was built using HTML,CSS and JavaScript. I used CSS Grid and Flexbox for layout and styling.
 
 
 Features:
