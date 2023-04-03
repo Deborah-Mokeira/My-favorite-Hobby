@@ -16,4 +16,4 @@ How to Use:To view this page, simply visit the URL or open the index.html file i
 
 Contributing:If you'd like to contribute to this project, feel free to fork the repository and make any changes you see fit. Pull requests are always welcome!
 
-Credits:This project was created by Deborah Nyambati.Special thanks to Wikipedia.
+Credits:This project was created by Deborah N.Special thanks to Wikipedia.
