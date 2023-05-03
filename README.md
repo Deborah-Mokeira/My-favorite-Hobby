@@ -16,4 +16,5 @@ This page was built using
 # Contributing:
 If you'd like to contribute to this project, feel free to fork the repository and make any changes you see fit. Pull requests are always welcome!
 
-# Credits:Special thanks to Wikipedia.
+# Credits
+Wikipedia
